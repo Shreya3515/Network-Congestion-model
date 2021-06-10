@@ -1,0 +1,2 @@
+# Network-Congestion-model
+In the context of telecommunications industry, one of the most important issues that industry faces is network congestion. It has been shown that congestion, even if for smaller durations, has a negative impact on customer loyalty, especially in price sensitive markets. To solve this problem effectively, it becomes imperative for firms to be able to predict congestion in advance and take proactive actions
